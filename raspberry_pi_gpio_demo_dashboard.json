@@ -623,7 +623,7 @@
     "deviceAliases": {
       "1": {
         "alias": "Raspberry Pi Demo Device",
-        "deviceId": "dee9b020-c560-11e9-9890-a9cdbff27d94"
+        "deviceId": "DEVICE_ID"
       }
     }
   },
